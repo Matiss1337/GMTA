@@ -3,10 +3,16 @@
 a {
     all: unset;
 }
-
+html, body {
+    margin: 0;
+    padding: 0;
+}
 
 body{
     font-family: Archivo;
+}
+
+.Main{
     margin-left: 120px;
     margin-right: 120px;
 }

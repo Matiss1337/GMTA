@@ -6,12 +6,15 @@ import { ServicesBanner } from './components/ServicesBanner'
 import { Services } from './components/Services'
 import { Team } from './components/Team'
 import { ContactForm } from './components/ContactForm'
+import { AffiliateProgramme } from './components/AffiliateProgramme'
+import { Footer } from './components/Footer'
 
 function App() {
 
 
   return (
     <div className="App">
+      <div className="Main">
 <Nav/>
 <Banner/>
 <Partners/>
@@ -19,6 +22,9 @@ function App() {
 <Services/>
 <Team/>
 <ContactForm/>
+<AffiliateProgramme/>
+</div>
+<Footer/>
     </div>
   )
 }
