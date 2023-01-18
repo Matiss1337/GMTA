@@ -1,6 +1,109 @@
 .Footer{
     height: 326px;
-    background-color: black;
+    background-color: #0A0A0A;
     color: white;
     margin-left: none;
+    padding: 54px 120px 0 120px;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.FooterLinks{
+    display: flex;
+}
+
+.ServiceZone{
+    display: flex;
+    flex-direction: column;
+    margin-left: 73px;
+    margin-right: 66px;
+}
+
+.FooterIcons{
+    height: 50px;
+    display: flex;
+    gap: 17px;
+    align-items: center;
+}
+
+.FooterIcon{
+    width: 42px;
+    height: 42px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.FTTwitter{
+background-color: #002031;
+}
+.FTTelegram{
+background-color: #122731;
+}
+.FTDiscord{
+background-color: #0F1130;
+}
+
+.IconZone{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+.IconLinks a{
+    font-size: 16px;
+    color: #949494;
+    margin-left: 16px;
+}
+
+.IconLinks{
+    display: flex;
+    justify-content: end;
+}
+
+.CopyRight{
+    margin-top: 85px;
+}
+
+.CopyRight h2{
+color: #434343;
+font-size: 18px;
+font-weight: 400;
+}
+
+.LogoZone h1{
+color: #F0F0F0;
+font-size: 40px;
+}
+
+
+.LogoZone h4{
+width: 253px;
+color: #949494;
+font-weight: 400;
+}
+
+.ServiceZone h2{
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.ServiceZone a{
+    font-size: 18px;
+    font-weight: 400;
+    color: #898989;
+    margin-bottom: 1rem;
+}
+
+.SupportZone h2{
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.SupportZone a{
+    font-size: 18px;
+    font-weight: 400;
+    color: #898989;
+    margin-bottom: 1rem;
 }

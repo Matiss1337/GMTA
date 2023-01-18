@@ -9,7 +9,7 @@ export const AffiliateProgramme = () => {
 
         <div className="AffiliateInfo">
           <h3>Interested in partnering with us to boost your crypto community on Discord?</h3>
-          <a href="">Become an Affiliate <img src={Bolt} alt="SVG as an image"></img></a>
+          <a href="javascript:void(0)">Become an Affiliate <img src={Bolt} alt="SVG as an image"></img></a>
         </div>
     </div>
   )
