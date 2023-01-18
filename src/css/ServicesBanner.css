@@ -1,4 +1,17 @@
 .ServicesBanner{
-    background-color: rgb(200, 123, 28);
-    height: 80px;
+    height: 62px;
+    display: flex;
+    justify-content: flex-start;
+}
+
+
+.ServicesBannerTittle{
+  font-size: 40px;  
+  font-weight: 700;
+}
+.ServicesBannerInfo{
+    width: 394px;
+    font-size: 20px;
+    font-weight: 400;
+    transform: translateY(10px);
 }
