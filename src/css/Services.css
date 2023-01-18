@@ -2,5 +2,47 @@
     margin-top: 18px;
     margin-bottom: 179px;
     height: 815px;
-    background-color: aqua;
+    display: flex;
+    justify-content: space-between;
+}
+
+.ServicesCard{
+    height: 100%;
+    width: 590px;
+    display: flex;
+    flex-direction: column;
+}
+
+.MarMarketingCampaigns{
+    background-color: #F89C2F;
+}
+.MarMarketingCampaigns .MiniCard{
+background: radial-gradient(50% 50% at 50% 50%, #EA952F 0%, #E48D22 100%);
+}
+
+.CommunityManagement{
+    background-color:#ACCB47;
+}
+.CommunityManagement .MiniCard{
+background: radial-gradient(50% 50% at 50% 50%, #7A9A13 0%, #81A01F 100%);
+}
+
+
+.MCsvg{
+    margin-left: auto;
+}
+
+.CMsvg{
+    margin-right: auto;
+}
+
+
+.MiniCard{
+    width: 236px;
+    height: 185px;
+}
+
+.MiniCardTop{
+    height: 50%;
+    display: flex;
 }
