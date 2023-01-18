@@ -70,8 +70,8 @@ export const Services = () => {
 
       <div className="ServicesCard CommunityManagement">
       <div className="ServicesLogo"><img src={RightLogo} alt="SVG as an image"></img></div>
-      <div className="ServicesTittle">Marketing Campaigns</div>
-      <div className="ServicesInfo">We connect you with niche Discord servers for hosting AMA's, events, and promoting your business to new audiences.</div>
+      <div className="ServicesTittle">Community Management</div>
+      <div className="ServicesInfo">We assist discord servers understand and engage with crypto-niche projects and grow their communities.</div>
       <div className="ServicesInclude">INCLUDES</div>
       <div className="ServicesMiniCards">
 

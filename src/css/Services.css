@@ -3,6 +3,7 @@
     margin-bottom: 239px;
     height: 815px;
     display: flex;
+    justify-content: space-between;
     gap: 20px;
 }
 
@@ -12,7 +13,6 @@
     display: flex;
     flex-direction: column;
     padding: 60px 44px 43px 51px;
-    
 }
 
 .MarMarketingCampaigns{
