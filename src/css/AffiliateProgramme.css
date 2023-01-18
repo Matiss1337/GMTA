@@ -1,5 +1,31 @@
 .AffiliateProgramme{
     height: 135px;
     margin-bottom: 137px;
-    background-color: bisque;
+    display: flex;
+    gap: 49px;
+}
+
+.AffiliateProgramme h1{
+    width: 281px;
+    font-size: 40px;
+    transform: translateY(-15px);
+}
+
+.AffiliateInfo{
+    display: flex;
+    flex-direction: column;
+    gap: 31px;
+}
+
+.AffiliateInfo h3{
+    width: 376px;
+    font-weight: 400;
+    color: #0A0A0A;
+}
+
+
+.AffiliateInfo a{
+    font-size: 21px;
+    font-weight: 600;
+    color: #4707FF;
 }
