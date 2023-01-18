@@ -1,9 +1,7 @@
 .Team{
     height: 300px;
-    border: 2px solid red;
-    padding-top: 60px;
-    display: flex;
 
+    display: flex;
 }
 
 .TeamInfo h1{
@@ -19,5 +17,49 @@ margin-right: 127px;
 }
 
 .TeamPhotos{
+    width: 100%;
     display: flex;
+    justify-content: space-between;
+}
+
+.MemberInfo{
+    display: flex;
+    justify-content: space-between;
+}
+
+.MemberNameTittle{
+  line-height: 4px;  
+}
+
+.MemberSocialLinks{
+    margin-top: 16px;
+    display: flex;
+    gap: 1rem;
+}
+
+.MemberNameTittle h2{
+    font-size: 22px;
+}
+
+.MemberNameTittle h4{
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.TW{
+    background-color: #CAC0E6;
+    height: 32px;
+    width: 32px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.LD{
+    background-color: #CAC0E6;
+    height: 32px;
+    width: 32px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
