@@ -22,36 +22,49 @@ export const Services = () => {
       <div className="ServicesInfo">We connect you with niche Discord servers for hosting AMA's, events, and promoting your business to new audiences.</div>
       <div className="ServicesInclude">INCLUDES</div>
       <div className="ServicesMiniCards">
-        <div className="MiniCard">
-          <div className="MiniCardTop">
+
+      <div className="MiniCard">
+          <div className="MinicardContent">
+            <div className="MiniCardTop">
             <div className="MiniCardTitle">AMAs</div>
-            <div className="MiniCardLogo">logo</div>
+            <div className="MiniCardTitle"><img src={Left1} alt="SVG as an image"></img></div>
           </div>
           <div className="MiniCardInfo">A live hosted event to connect you with the community.</div>
         </div>
-                <div className="MiniCard">
-          <div className="MiniCardTop">
-            <div className="MiniCardTitle">AMAs</div>
-            <div className="MiniCardLogo">logo</div>
-          </div>
-          <div className="MiniCardInfo">A live hosted event to connect you with the community.</div>
         </div>
-                <div className="MiniCard">
-          <div className="MiniCardTop">
-            <div className="MiniCardTitle">AMAs</div>
-            <div className="MiniCardLogo">logo</div>
+
+ <div className="MiniCard">
+          <div className="MinicardContent">
+            <div className="MiniCardTop">
+            <div className="MiniCardTitle">Airdrops</div>
+            <div className="MiniCardTitle"><img src={Left2} alt="SVG as an image"></img></div>
           </div>
-          <div className="MiniCardInfo">A live hosted event to connect you with the community.</div>
+          <div className="MiniCardInfo">A giveaway to reward and encourage user activity.</div>
         </div>
-                <div className="MiniCard">
-          <div className="MiniCardTop">
-            <div className="MiniCardTitle">AMAs</div>
-            <div className="MiniCardLogo">logo</div>
+        </div>
+
+ <div className="MiniCard">
+          <div className="MinicardContent">
+            <div className="MiniCardTop">
+            <div className="MiniCardTitle">Audits</div>
+            <div className="MiniCardTitle"><img src={Left3} alt="SVG as an image"></img></div>
           </div>
-          <div className="MiniCardInfo">A live hosted event to connect you with the community.</div>
+          <div className="MiniCardInfo">Builds confidence in the long-term goals of your project.</div>
+        </div>
+        </div>
+        
+ <div className="MiniCard">
+          <div className="MinicardContent">
+            <div className="MiniCardTop">
+            <div className="MiniCardTitle">Social Media</div>
+            <div className="MiniCardTitle"><img src={Left4} alt="SVG as an image"></img></div>
+          </div>
+          <div className="MiniCardInfo">Boost your online presence with our social media marketing.</div>
+        </div>
         </div>
       </div>
       </div>
+
 
 
 
@@ -61,34 +74,49 @@ export const Services = () => {
       <div className="ServicesInfo">We connect you with niche Discord servers for hosting AMA's, events, and promoting your business to new audiences.</div>
       <div className="ServicesInclude">INCLUDES</div>
       <div className="ServicesMiniCards">
-        <div className="MiniCard">
-          <div className="MiniCardTop">
-            <div className="MiniCardTitle">AMAs</div>
-            <div className="MiniCardLogo">logo</div>
+
+      <div className="MiniCard">
+          <div className="MinicardContent">
+            <div className="MiniCardTop">
+            <div className="MiniCardTitle">Moderation</div>
+            <div className="MiniCardTitle"><img src={Right1} alt="SVG as an image"></img></div>
           </div>
-          <div className="MiniCardInfo">A live hosted event to connect you with the community.</div>
+          <div className="MiniCardInfo">Expert Discord staff for a safe and positive community.</div>
         </div>
-                <div className="MiniCard">
-          <div className="MiniCardTop">
-            <div className="MiniCardTitle">AMAs</div>
-            <div className="MiniCardLogo">logo</div>
+        </div>
+
+ <div className="MiniCard">
+          <div className="MinicardContent">
+            <div className="MiniCardTop">
+            <div className="MiniCardTitle">Social Media Research</div>
+            <div className="MiniCardTitle"><img src={Right2} alt="SVG as an image"></img></div>
           </div>
-          <div className="MiniCardInfo">A live hosted event to connect you with the community.</div>
+          <div className="MiniCardInfo">Analytics and stats to help direct the growth of your business.</div>
         </div>
-                <div className="MiniCard">
-          <div className="MiniCardTop">
-            <div className="MiniCardTitle">AMAs</div>
-            <div className="MiniCardLogo">logo</div>
+        </div>
+
+ <div className="MiniCard">
+          <div className="MinicardContent">
+            <div className="MiniCardTop">
+            <div className="MiniCardTitle">Crypto Integrations</div>
+            <div className="MiniCardTitle"><img src={Right3} alt="SVG as an image"></img></div>
           </div>
-          <div className="MiniCardInfo">A live hosted event to connect you with the community.</div>
+          <div className="MiniCardInfo">Integrate crypto - currency tokens to your discord servers.</div>
         </div>
-                <div className="MiniCard">
-          <div className="MiniCardTop">
+        </div>
+        
+ <div className="MiniCard">
+          <div className="MinicardContent">
+            <div className="MiniCardTop">
             <div className="MiniCardTitle">AMAs</div>
-            <div className="MiniCardLogo">logo</div>
+            <div className="MiniCardTitle"><img src={Right4} alt="SVG as an image"></img></div>
           </div>
-          <div className="MiniCardInfo">A live hosted event to connect you with the community.</div>
+          <div className="MiniCardInfo">Create automated and curated bots according to your needs.</div>
         </div>
+        </div>
+
+
+
       </div>
       </div>
     </div>
