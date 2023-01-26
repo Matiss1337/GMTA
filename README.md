@@ -1,3 +1,9 @@
+
+to install npm i
+to run npm run dev
+to open http://127.0.0.1:5173/
+
+
 Figma to React i made for a friend,
 main content with is 1440px ans footer is 100% wide as this file was meant for desktop,
 other than tahat i tried to make it pixel perfect.
