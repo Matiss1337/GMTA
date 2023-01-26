@@ -1,6 +1,7 @@
 .Banner{
     height: 530px;
     display: flex;
+    width: 1440px;
 }
 
 .BannerText{
@@ -50,6 +51,6 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 480px;
+    width: 710px;
     border: 2px solid red;
 }

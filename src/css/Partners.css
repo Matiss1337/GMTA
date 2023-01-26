@@ -4,4 +4,6 @@
     margin-bottom: 130px;
     display: flex;
     gap: 16px;
+    display: flex;
+    justify-content: space-between
 }

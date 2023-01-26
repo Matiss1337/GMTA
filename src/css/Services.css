@@ -15,9 +15,14 @@
     padding: 60px 44px 43px 51px;
 }
 
+/*  .MarMarketingCampaigns should have background image on left top side from svg file*/
+
+
 .MarMarketingCampaigns{
     background-color: #F89C2F;
     color: #71430C;
+    background-image: url(../assets/background/ServicesCM.svg);
+    background-repeat: no-repeat;
 }
 .MarMarketingCampaigns .MiniCard{
 background: radial-gradient(50% 50% at 50% 50%, #EA952F 0%, #E48D22 100%);
@@ -26,6 +31,9 @@ background: radial-gradient(50% 50% at 50% 50%, #EA952F 0%, #E48D22 100%);
 .CommunityManagement{
     background-color:#ACCB47;
     color: #314000;
+    background-image: url(../assets/background/ServicesMC.svg);
+    background-repeat: no-repeat;
+    background-position: right top;
 }
 .CommunityManagement .MiniCard{
 background: radial-gradient(50% 50% at 50% 50%, #7A9A13 0%, #81A01F 100%);
@@ -50,13 +58,6 @@ background: radial-gradient(50% 50% at 50% 50%, #7A9A13 0%, #81A01F 100%);
     margin-top: 57px;
     margin-bottom: 24px;
 }
-/* .MCsvg{
-    margin-left: auto;
-}
-
-.CMsvg{
-    margin-right: auto;
-} */
 
 .ServicesMiniCards{
     width: 100%;
@@ -72,8 +73,8 @@ background: radial-gradient(50% 50% at 50% 50%, #7A9A13 0%, #81A01F 100%);
 }
 
 .MiniCard{
-    width: 230px;
-    height: 195px;
+    width: 236px;
+    height: 185px;
 }
 
 .MiniCardTop{

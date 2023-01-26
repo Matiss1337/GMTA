@@ -13,7 +13,9 @@ body{
     background-color: #F0F0F0;
 }
 
+
 .Main{
-    margin-left: 120px;
-    margin-right: 120px;
-}
+    flex-direction: column;
+    margin: auto;
+    width: 1440px;
+    }
